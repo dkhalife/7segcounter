@@ -1,0 +1,89 @@
+[DEVICE]
+Name=P16F747
+Clock=4000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=counter.c
+[USE_EEPROM]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[EXPANDED NODES]
+Node1=Sources
+Count=1
+[FILES]
+Count=1
+File0=counter.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+[OPENED_FILES]
+Count=1
+File0=counter.c
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=9
+Path0=C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\defs\
+Path1=C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\Uses\P16\
+Path2=I:\Documents\Projects\Pic Tools\Active Projects\7-Seg Single Counter\
+Path3=C:\Program Files (x86)\mikroC PRO for PIC\defs\
+Path4=C:\Program Files (x86)\mikroC PRO for PIC\Uses\P16\
+Path5=I:\Documents\Projects\Pic Tools\7-Seg Single Counter\
+Path6=C:\Program Files\Mikroelektronika\mikroC PRO for PIC\defs\
+Path7=C:\Program Files\Mikroelektronika\mikroC PRO for PIC\Uses\P16\
+Path8=C:\Documents and Settings\Dan\Desktop\7-Seg Single Counter\
+[HEADER_PATH]
+Count=0
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+Count=38
+File0=ADC
+File1=Button
+File2=C_Math
+File3=C_Stdlib
+File4=C_String
+File5=C_Type
+File6=CAN_SPI
+File7=Compact_Flash
+File8=Conversions
+File9=Glcd_Fonts
+File10=Glcd
+File11=I2C
+File12=Keypad4x4
+File13=Lcd_Constants
+File14=Lcd
+File15=Manchester
+File16=One_Wire
+File17=Port_Expander
+File18=PS2
+File19=PWM12
+File20=PWM3
+File21=RS485
+File22=Software_I2C
+File23=Software_SPI
+File24=Software_UART
+File25=Sound
+File26=SPI_Ethernet
+File27=SPI_Glcd
+File28=SPI_Lcd
+File29=SPI_Lcd8
+File30=SPI_T6963C
+File31=SPI
+File32=Sprinti
+File33=Sprintl
+File34=T6963C
+File35=Time
+File36=Trigonometry
+File37=UART
